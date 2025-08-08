@@ -9,6 +9,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url('./assets/8423661.jpg');
+  height: 100vh;
 }
 
 .container {
